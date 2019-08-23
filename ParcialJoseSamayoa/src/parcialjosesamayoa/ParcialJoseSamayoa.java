@@ -1,4 +1,4 @@
-
+Revisado... 
 package parcialjosesamayoa;
 
 import java.util.Scanner;
